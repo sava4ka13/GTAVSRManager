@@ -31,7 +31,7 @@ Then the SRM should launch!
 
 4. Open .exe file 
 
-But here's the tricky part. Ativirus might be deleting file because of a virus (This happened to me and my friend), i don't know why is this happening, maybe because SRM manipulates with files.
+But here's the tricky part. Ativirus might be deleting file because of a virus (This happened to me and my friend), i don't know why is this happening, maybe because SRM manipulates with files. There's also a bug in this way, on all of the imputs, there's a weird numbers, i don't know what is this
 
 
 
@@ -63,4 +63,4 @@ But here's the tricky part. Ativirus might be deleting file because of a virus (
 
 4. Откройте файл .exe.
 
-Но вот тут начинается самое сложное. Возможно, антивирус будет удалять файл из-за вируса (это случилось со мной и моим другом), я не знаю, почему это происходит, возможно, из-за того, что SRM манипулирует файлами.
+Но вот тут начинается самое сложное. Возможно, антивирус будет удалять файл из-за вируса (это случилось со мной и моим другом), я не знаю, почему это происходит, возможно, из-за того, что SRM манипулирует файлами. Так же есть один баг, на всех вводах странные числа, я не знаю, что это
