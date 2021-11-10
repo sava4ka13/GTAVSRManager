@@ -27,6 +27,9 @@ import os.path
 from os import path
 import time
 
+#Cleans cmd
+os.system('cls')
+
 #Gets username
 username = str(os.getlogin())
 
@@ -47,14 +50,18 @@ print(Fore.CYAN + "██║░░╚██╗░░░██║░░░██�
 print(Fore.CYAN + "╚██████╔╝░░░██║░░░██║░░██║░░╚██╔╝░░██████╔╝██║░░██║██║░╚═╝░██║")
 print(Fore.YELLOW + "                                          made by sava4ka     ")
 
+#Line skip
 print (" ")
 
-print (Fore.MAGENTA + "1. Load Preset \n2. Save Preset")
+#Printing options
+print (Fore.MAGENTA + "1. Load Preset \n2. Save Preset \n3. Current Preset")
 
+#Line skip
 print (" ")
 
 saveorload = int(input (Fore. RESET + "Choose option: "))
 
+#Line skip
 print (" ")
 
 if (saveorload == 1):
@@ -86,7 +93,7 @@ if (saveorload == 1):
     exit()
 if (saveorload == 2):
 
-        spresetname = input (Fore.RESET + "Name your preset: ")
+        spresetname = input (Fore.RESET + "Name your preset: ",)
 
 
         src_path = gtafolder + "/User Music"
@@ -105,3 +112,7 @@ if (saveorload == 2):
 
         time.sleep(3)
         exit()
+if (saveorload == 3):
+    print (" ")
+    for b in os.listdir(musicfolder):
+        print (Fore.GREEN + b)
