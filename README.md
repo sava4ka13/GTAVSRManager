@@ -43,7 +43,7 @@ Then the SRM should launch!
 
 **Способ 1 (временно недоступно)**
 
-1. Перейдите на [вкладку releases] (https://github.com/sava4ka777/GTAVSRManager/releases)
+1. Перейдите на вкладку [releases] (https://github.com/sava4ka777/GTAVSRManager/releases)
 
 2. Загрузите последнюю версию
 
