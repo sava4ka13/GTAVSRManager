@@ -4,7 +4,7 @@
 
 ## How to use (EN)
 
-**Way 1 (recomended)**
+**Way 1 (temporary unavailable)**
 
 1. Go to [releases tab](https://github.com/sava4ka777/GTAVSRManager/releases)
 
@@ -41,7 +41,7 @@ Then the SRM should launch!
 ## How to use (RU)
 
 
-**Способ 1 (рекомендованый)**
+**Способ 1 (временно недоступно)**
 
 1. Перейдите на [вкладку releases] (https://github.com/sava4ka777/GTAVSRManager/releases)
 
